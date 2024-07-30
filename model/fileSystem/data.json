@@ -1,0 +1,894 @@
+[
+    {
+      "id": 1,
+      "nombre": "Thriller",
+      "artista": "Michael Jackson",
+      "genero": "Pop",
+      "duracion": "42:19",
+      "cantidad_canciones": 9,
+      "año": 1982
+    },
+    {
+      "id": 2,
+      "nombre": "Back in Black",
+      "artista": "AC/DC",
+      "genero": "Rock",
+      "duracion": "42:11",
+      "cantidad_canciones": 10,
+      "año": 1980
+    },
+    {
+      "id": 3,
+      "nombre": "The Dark Side of the Moon",
+      "artista": "Pink Floyd",
+      "genero": "Progressive Rock",
+      "duracion": "42:59",
+      "cantidad_canciones": 10,
+      "año": 1973
+    },
+    {
+      "id": 4,
+      "nombre": "Abbey Road",
+      "artista": "The Beatles",
+      "genero": "Rock",
+      "duracion": "47:23",
+      "cantidad_canciones": 17,
+      "año": 1969
+    },
+    {
+      "id": 5,
+      "nombre": "Rumours",
+      "artista": "Fleetwood Mac",
+      "genero": "Rock",
+      "duracion": "39:44",
+      "cantidad_canciones": 11,
+      "año": 1977
+    },
+    {
+      "id": 6,
+      "nombre": "Born to Run",
+      "artista": "Bruce Springsteen",
+      "genero": "Rock",
+      "duracion": "39:55",
+      "cantidad_canciones": 9,
+      "año": 1975
+    },
+    {
+      "id": 7,
+      "nombre": "Hotel California",
+      "artista": "Eagles",
+      "genero": "Rock",
+      "duracion": "43:28",
+      "cantidad_canciones": 9,
+      "año": 1976
+    },
+    {
+      "id": 8,
+      "nombre": "Let It Be",
+      "artista": "The Beatles",
+      "genero": "Rock",
+      "duracion": "35:10",
+      "cantidad_canciones": 12,
+      "año": 1970
+    },
+    {
+      "id": 9,
+      "nombre": "A Night at the Opera",
+      "artista": "Queen",
+      "genero": "Rock",
+      "duracion": "43:03",
+      "cantidad_canciones": 12,
+      "año": 1975
+    },
+    {
+      "id": 10,
+      "nombre": "Led Zeppelin IV",
+      "artista": "Led Zeppelin",
+      "genero": "Rock",
+      "duracion": "42:34",
+      "cantidad_canciones": 8,
+      "año": 1971
+    },
+    {
+      "id": 11,
+      "nombre": "The Wall",
+      "artista": "Pink Floyd",
+      "genero": "Progressive Rock",
+      "duracion": "81:33",
+      "cantidad_canciones": 26,
+      "año": 1979
+    },
+    {
+      "id": 12,
+      "nombre": "Darkness on the Edge of Town",
+      "artista": "Bruce Springsteen",
+      "genero": "Rock",
+      "duracion": "43:23",
+      "cantidad_canciones": 10,
+      "año": 1978
+    },
+    {
+      "id": 13,
+      "nombre": "Tapestry",
+      "artista": "Carole King",
+      "genero": "Singer-Songwriter",
+      "duracion": "48:02",
+      "cantidad_canciones": 12,
+      "año": 1971
+    },
+    {
+      "id": 14,
+      "nombre": "Bridge Over Troubled Water",
+      "artista": "Simon & Garfunkel",
+      "genero": "Folk Rock",
+      "duracion": "41:21",
+      "cantidad_canciones": 11,
+      "año": 1970
+    },
+    {
+      "id": 15,
+      "nombre": "Goodbye Yellow Brick Road",
+      "artista": "Elton John",
+      "genero": "Pop",
+      "duracion": "76:16",
+      "cantidad_canciones": 17,
+      "año": 1973
+    },
+    {
+      "id": 16,
+      "nombre": "Born in the U.S.A.",
+      "artista": "Bruce Springsteen",
+      "genero": "Rock",
+      "duracion": "43:32",
+      "cantidad_canciones": 12,
+      "año": 1984
+    },
+    {
+      "id": 17,
+      "nombre": "Purple Rain",
+      "artista": "Prince",
+      "genero": "Rock",
+      "duracion": "44:56",
+      "cantidad_canciones": 9,
+      "año": 1984
+    },
+    {
+      "id": 18,
+      "nombre": "The Joshua Tree",
+      "artista": "U2",
+      "genero": "Rock",
+      "duracion": "50:22",
+      "cantidad_canciones": 11,
+      "año": 1987
+    },
+    {
+      "id": 19,
+      "nombre": "Nevermind",
+      "artista": "Nirvana",
+      "genero": "Grunge",
+      "duracion": "42:27",
+      "cantidad_canciones": 12,
+      "año": 1991
+    },
+    {
+      "id": 20,
+      "nombre": "Back to Black",
+      "artista": "Amy Winehouse",
+      "genero": "Soul",
+      "duracion": "34:11",
+      "cantidad_canciones": 11,
+      "año": 2006
+    },
+    {
+      "id": 21,
+      "nombre": "Dangerous",
+      "artista": "Michael Jackson",
+      "genero": "Pop",
+      "duracion": "77:10",
+      "cantidad_canciones": 14,
+      "año": 1991
+    },
+    {
+      "id": 22,
+      "nombre": "Lateralus",
+      "artista": "Tool",
+      "genero": "Progressive Metal",
+      "duracion": "77:23",
+      "cantidad_canciones": 13,
+      "año": 2001
+    },
+    {
+      "id": 23,
+      "nombre": "OK Computer",
+      "artista": "Radiohead",
+      "genero": "Alternative Rock",
+      "duracion": "53:46",
+      "cantidad_canciones": 12,
+      "año": 1997
+    },
+    {
+      "id": 24,
+      "nombre": "Achtung Baby",
+      "artista": "U2",
+      "genero": "Rock",
+      "duracion": "47:03",
+      "cantidad_canciones": 12,
+      "año": 1991
+    },
+    {
+      "id": 25,
+      "nombre": "London Calling",
+      "artista": "The Clash",
+      "genero": "Punk Rock",
+      "duracion": "65:22",
+      "cantidad_canciones": 19,
+      "año": 1979
+    },
+    {
+      "id": 26,
+      "nombre": "The Chronic",
+      "artista": "Dr. Dre",
+      "genero": "Hip Hop",
+      "duracion": "60:32",
+      "cantidad_canciones": 16,
+      "año": 1992
+    },
+    {
+      "id": 27,
+      "nombre": "The Beatles (White Album)",
+      "artista": "The Beatles",
+      "genero": "Rock",
+      "duracion": "93:31",
+      "cantidad_canciones": 30,
+      "año": 1968
+    },
+    {
+      "id": 28,
+      "nombre": "In the Aeroplane Over the Sea",
+      "artista": "Neutral Milk Hotel",
+      "genero": "Indie Rock",
+      "duracion": "39:27",
+      "cantidad_canciones": 11,
+      "año": 1998
+    },
+    {
+      "id": 29,
+      "nombre": "Graceland",
+      "artista": "Paul Simon",
+      "genero": "Folk Rock",
+      "duracion": "43:12",
+      "cantidad_canciones": 11,
+      "año": 1986
+    },
+    {
+      "id": 30,
+      "nombre": "Rumors",
+      "artista": "Fleetwood Mac",
+      "genero": "Rock",
+      "duracion": "39:44",
+      "cantidad_canciones": 11,
+      "año": 1977
+    },
+    {
+      "id": 31,
+      "nombre": "Blonde on Blonde",
+      "artista": "Bob Dylan",
+      "genero": "Folk Rock",
+      "duracion": "72:43",
+      "cantidad_canciones": 14,
+      "año": 1966
+    },
+    {
+      "id": 32,
+      "nombre": "Pet Sounds",
+      "artista": "The Beach Boys",
+      "genero": "Pop",
+      "duracion": "35:47",
+      "cantidad_canciones": 13,
+      "año": 1966
+    },
+    {
+      "id": 33,
+      "nombre": "Sticky Fingers",
+      "artista": "The Rolling Stones",
+      "genero": "Rock",
+      "duracion": "45:17",
+      "cantidad_canciones": 10,
+      "año": 1971
+    },
+    {
+      "id": 34,
+      "nombre": "Let It Be",
+      "artista": "The Beatles",
+      "genero": "Rock",
+      "duracion": "35:10",
+      "cantidad_canciones": 12,
+      "año": 1970
+    },
+    {
+      "id": 35,
+      "nombre": "The Suburbs",
+      "artista": "Arcade Fire",
+      "genero": "Indie Rock",
+      "duracion": "48:04",
+      "cantidad_canciones": 16,
+      "año": 2010
+    },
+    {
+      "id": 36,
+      "nombre": "Blue",
+      "artista": "Joni Mitchell",
+      "genero": "Folk",
+      "duracion": "35:31",
+      "cantidad_canciones": 10,
+      "año": 1971
+    },
+    {
+      "id": 37,
+      "nombre": "Led Zeppelin II",
+      "artista": "Led Zeppelin",
+      "genero": "Rock",
+      "duracion": "42:24",
+      "cantidad_canciones": 9,
+      "año": 1969
+    },
+    {
+      "id": 38,
+      "nombre": "Hounds of Love",
+      "artista": "Kate Bush",
+      "genero": "Art Pop",
+      "duracion": "43:07",
+      "cantidad_canciones": 12,
+      "año": 1985
+    },
+    {
+      "id": 39,
+      "nombre": "Electric Ladyland",
+      "artista": "The Jimi Hendrix Experience",
+      "genero": "Psychedelic Rock",
+      "duracion": "75:07",
+      "cantidad_canciones": 16,
+      "año": 1968
+    },
+    {
+      "id": 40,
+      "nombre": "Purple Rain",
+      "artista": "Prince",
+      "genero": "Rock",
+      "duracion": "44:56",
+      "cantidad_canciones": 9,
+      "año": 1984
+    },
+    {
+      "id": 41,
+      "nombre": "Born to Run",
+      "artista": "Bruce Springsteen",
+      "genero": "Rock",
+      "duracion": "39:55",
+      "cantidad_canciones": 9,
+      "año": 1975
+    },
+    {
+      "id": 42,
+      "nombre": "What's Going On",
+      "artista": "Marvin Gaye",
+      "genero": "Soul",
+      "duracion": "43:43",
+      "cantidad_canciones": 9,
+      "año": 1971
+    },
+    {
+      "id": 43,
+      "nombre": "The Queen Is Dead",
+      "artista": "The Smiths",
+      "genero": "Indie Rock",
+      "duracion": "39:31",
+      "cantidad_canciones": 10,
+      "año": 1986
+    },
+    {
+      "id": 44,
+      "nombre": "Nevermind",
+      "artista": "Nirvana",
+      "genero": "Grunge",
+      "duracion": "42:27",
+      "cantidad_canciones": 12,
+      "año": 1991
+    },
+    {
+      "id": 45,
+      "nombre": "Kind of Blue",
+      "artista": "Miles Davis",
+      "genero": "Jazz",
+      "duracion": "45:27",
+      "cantidad_canciones": 5,
+      "año": 1959
+    },
+    {
+      "id": 46,
+      "nombre": "A Love Supreme",
+      "artista": "John Coltrane",
+      "genero": "Jazz",
+      "duracion": "33:53",
+      "cantidad_canciones": 4,
+      "año": 1965
+    },
+    {
+      "id": 47,
+      "nombre": "Bitches Brew",
+      "artista": "Miles Davis",
+      "genero": "Jazz Fusion",
+      "duracion": "94:53",
+      "cantidad_canciones": 6,
+      "año": 1970
+    },
+    {
+      "id": 48,
+      "nombre": "Maggot Brain",
+      "artista": "Funkadelic",
+      "genero": "Funk",
+      "duracion": "37:31",
+      "cantidad_canciones": 8,
+      "año": 1971
+    },
+    {
+      "id": 49,
+      "nombre": "Live at the Apollo",
+      "artista": "James Brown",
+      "genero": "Soul",
+      "duracion": "39:51",
+      "cantidad_canciones": 9,
+      "año": 1963
+    },
+    {
+      "id": 50,
+      "nombre": "My Beautiful Dark Twisted Fantasy",
+      "artista": "Kanye West",
+      "genero": "Hip Hop",
+      "duracion": "68:44",
+      "cantidad_canciones": 13,
+      "año": 2010
+    },
+    {
+      "id": 51,
+      "nombre": "In the Court of the Crimson King",
+      "artista": "King Crimson",
+      "genero": "Progressive Rock",
+      "duracion": "43:50",
+      "cantidad_canciones": 5,
+      "año": 1969
+    },
+    {
+      "id": 52,
+      "nombre": "Music from Big Pink",
+      "artista": "The Band",
+      "genero": "Rock",
+      "duracion": "40:36",
+      "cantidad_canciones": 11,
+      "año": 1968
+    },
+    {
+      "id": 53,
+      "nombre": "Born to Die",
+      "artista": "Lana Del Rey",
+      "genero": "Pop",
+      "duracion": "49:19",
+      "cantidad_canciones": 12,
+      "año": 2012
+    },
+    {
+      "id": 54,
+      "nombre": "Illmatic",
+      "artista": "Nas",
+      "genero": "Hip Hop",
+      "duracion": "39:04",
+      "cantidad_canciones": 10,
+      "año": 1994
+    },
+    {
+      "id": 55,
+      "nombre": "Electric Warrior",
+      "artista": "T. Rex",
+      "genero": "Glam Rock",
+      "duracion": "36:29",
+      "cantidad_canciones": 11,
+      "año": 1971
+    },
+    {
+      "id": 56,
+      "nombre": "Dark Side of the Moon",
+      "artista": "Pink Floyd",
+      "genero": "Progressive Rock",
+      "duracion": "42:59",
+      "cantidad_canciones": 10,
+      "año": 1973
+    },
+    {
+      "id": 57,
+      "nombre": "El Amor Después del Amor",
+      "artista": "Fito Páez",
+      "genero": "Rock en Español",
+      "duracion": "49:11",
+      "cantidad_canciones": 13,
+      "año": 1992
+    },
+    {
+      "id": 58,
+      "nombre": "Clube Da Esquina",
+      "artista": "Milton Nascimento & Lô Borges",
+      "genero": "MPB",
+      "duracion": "43:30",
+      "cantidad_canciones": 12,
+      "año": 1972
+    },
+    {
+      "id": 59,
+      "nombre": "La Raza",
+      "artista": "Kid Frost",
+      "genero": "Hip Hop",
+      "duracion": "44:55",
+      "cantidad_canciones": 11,
+      "año": 1990
+    },
+    {
+      "id": 60,
+      "nombre": "Me Haces Falta",
+      "artista": "Ricardo Montaner",
+      "genero": "Balada",
+      "duracion": "46:34",
+      "cantidad_canciones": 12,
+      "año": 1988
+    },
+    {
+      "id": 61,
+      "nombre": "Soy Yo",
+      "artista": "Bomba Estéreo",
+      "genero": "Electro Tropical",
+      "duracion": "42:14",
+      "cantidad_canciones": 12,
+      "año": 2015
+    },
+    {
+      "id": 62,
+      "nombre": "Déjala Que Vuelva",
+      "artista": "Manuel Turizo",
+      "genero": "Reguetón",
+      "duracion": "35:43",
+      "cantidad_canciones": 10,
+      "año": 2019
+    },
+    {
+      "id": 63,
+      "nombre": "Todo Se Transforma",
+      "artista": "Joaquín Sabina",
+      "genero": "Rock en Español",
+      "duracion": "46:21",
+      "cantidad_canciones": 11,
+      "año": 2004
+    },
+    {
+      "id": 64,
+      "nombre": "Ciclos",
+      "artista": "Café Tacvba",
+      "genero": "Rock en Español",
+      "duracion": "48:12",
+      "cantidad_canciones": 10,
+      "año": 2014
+    },
+    {
+      "id": 65,
+      "nombre": "Héroe",
+      "artista": "Enrique Iglesias",
+      "genero": "Pop",
+      "duracion": "47:15",
+      "cantidad_canciones": 14,
+      "año": 2001
+    },
+    {
+      "id": 66,
+      "nombre": "Por Eso Te Amo",
+      "artista": "Luis Fonsi",
+      "genero": "Pop Latino",
+      "duracion": "41:23",
+      "cantidad_canciones": 12,
+      "año": 2019
+    },
+    {
+      "id": 67,
+      "nombre": "El Ángel",
+      "artista": "Ricardo Arjona",
+      "genero": "Balada",
+      "duracion": "52:07",
+      "cantidad_canciones": 14,
+      "año": 2020
+    },
+    {
+      "id": 68,
+      "nombre": "Barrio Fino",
+      "artista": "Daddy Yankee",
+      "genero": "Reguetón",
+      "duracion": "56:42",
+      "cantidad_canciones": 17,
+      "año": 2004
+    },
+    {
+      "id": 69,
+      "nombre": "La Vida es Bella",
+      "artista": "Ricardo Montaner",
+      "genero": "Balada",
+      "duracion": "48:55",
+      "cantidad_canciones": 13,
+      "año": 1990
+    },
+    {
+      "id": 70,
+      "nombre": "Aquelarre",
+      "artista": "Chico Buarque",
+      "genero": "MPB",
+      "duracion": "43:01",
+      "cantidad_canciones": 12,
+      "año": 1973
+    },
+    {
+      "id": 71,
+      "nombre": "Eclipse",
+      "artista": "Ana Tijoux",
+      "genero": "Hip Hop",
+      "duracion": "50:34",
+      "cantidad_canciones": 11,
+      "año": 2016
+    },
+    {
+      "id": 72,
+      "nombre": "La Fama",
+      "artista": "Rauw Alejandro",
+      "genero": "Reguetón",
+      "duracion": "43:12",
+      "cantidad_canciones": 10,
+      "año": 2021
+    },
+    {
+      "id": 73,
+      "nombre": "Rastaman Vibration",
+      "artista": "Bob Marley & The Wailers",
+      "genero": "Reggae",
+      "duracion": "42:12",
+      "cantidad_canciones": 12,
+      "año": 1976
+    },
+    {
+      "id": 74,
+      "nombre": "Los Ángeles",
+      "artista": "Mac DeMarco",
+      "genero": "Indie Rock",
+      "duracion": "52:23",
+      "cantidad_canciones": 14,
+      "año": 2023
+    },
+    {
+      "id": 75,
+      "nombre": "Magdalena",
+      "artista": "Natalia Lafourcade",
+      "genero": "Pop Latino",
+      "duracion": "46:12",
+      "cantidad_canciones": 11,
+      "año": 2018
+    },
+    {
+      "id": 76,
+      "nombre": "Siempre",
+      "artista": "Luis Miguel",
+      "genero": "Balada",
+      "duracion": "43:55",
+      "cantidad_canciones": 10,
+      "año": 1993
+    },
+    {
+      "id": 77,
+      "nombre": "Unplugged",
+      "artista": "Shakira",
+      "genero": "Pop Latino",
+      "duracion": "52:15",
+      "cantidad_canciones": 12,
+      "año": 1999
+    },
+    {
+      "id": 78,
+      "nombre": "Tú",
+      "artista": "Gloria Estefan",
+      "genero": "Pop Latino",
+      "duracion": "49:23",
+      "cantidad_canciones": 11,
+      "año": 1998
+    },
+    {
+      "id": 79,
+      "nombre": "Vuelve",
+      "artista": "Ricky Martin",
+      "genero": "Pop Latino",
+      "duracion": "48:12",
+      "cantidad_canciones": 12,
+      "año": 1998
+    },
+    {
+      "id": 80,
+      "nombre": "10",
+      "artista": "Dani Martín",
+      "genero": "Pop",
+      "duracion": "44:10",
+      "cantidad_canciones": 12,
+      "año": 2011
+    },
+    {
+      "id": 81,
+      "nombre": "No Te Va Gustar",
+      "artista": "Varios",
+      "genero": "Rock Latino",
+      "duracion": "48:22",
+      "cantidad_canciones": 13,
+      "año": 2021
+    },
+    {
+      "id": 82,
+      "nombre": "En el corazón del hombre",
+      "artista": "Ana Gabriel",
+      "genero": "Balada",
+      "duracion": "45:55",
+      "cantidad_canciones": 11,
+      "año": 1994
+    },
+    {
+      "id": 83,
+      "nombre": "La Pista",
+      "artista": "Descemer Bueno",
+      "genero": "Pop Latino",
+      "duracion": "44:20",
+      "cantidad_canciones": 12,
+      "año": 2015
+    },
+    {
+      "id": 84,
+      "nombre": "Llama",
+      "artista": "Bomba Estéreo",
+      "genero": "Electro Tropical",
+      "duracion": "51:01",
+      "cantidad_canciones": 12,
+      "año": 2020
+    },
+    {
+      "id": 85,
+      "nombre": "Desde El Alma",
+      "artista": "Ricardo Arjona",
+      "genero": "Balada",
+      "duracion": "56:33",
+      "cantidad_canciones": 13,
+      "año": 2005
+    },
+    {
+      "id": 86,
+      "nombre": "Solistas",
+      "artista": "Julieta Venegas",
+      "genero": "Pop Latino",
+      "duracion": "47:24",
+      "cantidad_canciones": 11,
+      "año": 2010
+    },
+    {
+      "id": 87,
+      "nombre": "Vengo a Ofrecer Mi Corazón",
+      "artista": "Joaquín Sabina",
+      "genero": "Rock en Español",
+      "duracion": "49:40",
+      "cantidad_canciones": 10,
+      "año": 2009
+    },
+    {
+      "id": 88,
+      "nombre": "Amar es Combatir",
+      "artista": "Maná",
+      "genero": "Rock en Español",
+      "duracion": "49:32",
+      "cantidad_canciones": 12,
+      "año": 2006
+    },
+    {
+      "id": 89,
+      "nombre": "Déjala Que Vuelva",
+      "artista": "Manuel Turizo",
+      "genero": "Reguetón",
+      "duracion": "35:43",
+      "cantidad_canciones": 10,
+      "año": 2019
+    },
+    {
+      "id": 90,
+      "nombre": "Soy Yo",
+      "artista": "Bomba Estéreo",
+      "genero": "Electro Tropical",
+      "duracion": "42:14",
+      "cantidad_canciones": 12,
+      "año": 2015
+    },
+    {
+      "id": 91,
+      "nombre": "Ciclos",
+      "artista": "Café Tacvba",
+      "genero": "Rock en Español",
+      "duracion": "48:12",
+      "cantidad_canciones": 10,
+      "año": 2014
+    },
+    {
+      "id": 92,
+      "nombre": "Héroe",
+      "artista": "Enrique Iglesias",
+      "genero": "Pop",
+      "duracion": "47:15",
+      "cantidad_canciones": 14,
+      "año": 2001
+    },
+    {
+      "id": 93,
+      "nombre": "Por Eso Te Amo",
+      "artista": "Luis Fonsi",
+      "genero": "Pop Latino",
+      "duracion": "41:23",
+      "cantidad_canciones": 12,
+      "año": 2019
+    },
+    {
+      "id": 94,
+      "nombre": "El Ángel",
+      "artista": "Ricardo Arjona",
+      "genero": "Balada",
+      "duracion": "52:07",
+      "cantidad_canciones": 14,
+      "año": 2020
+    },
+    {
+    "id": 95,
+    "nombre": "Barrio Fino",
+    "artista": "Daddy Yankee",
+    "genero": "Reguetón",
+    "duracion": "56:42",
+    "cantidad_canciones": 17,
+    "año": 2004
+    },
+    {
+    "id": 96,
+    "nombre": "La Vida es Bella",
+    "artista": "Ricardo Montaner",
+    "genero": "Balada",
+    "duracion": "48:55",
+    "cantidad_canciones": 13,
+    "año": 1990
+    },
+    {
+    "id": 97,
+    "nombre": "Aquelarre",
+    "artista": "Chico Buarque",
+    "genero": "MPB",
+    "duracion": "43:01",
+    "cantidad_canciones": 12,
+    "año": 1973
+    },
+    {
+    "id": 98,
+    "nombre": "Eclipse",
+    "artista": "Ana Tijoux",
+    "genero": "Hip Hop",
+    "duracion": "50:34",
+    "cantidad_canciones": 11,
+    "año": 2016
+    },
+    {
+    "id": 99,
+    "nombre": "La Fama",
+    "artista": "Rauw Alejandro",
+    "genero": "Reguetón",
+    "duracion": "43:12",
+    "cantidad_canciones": 10,
+    "año": 2021
+    }
+  ]
+  
